@@ -2,3 +2,5 @@ Orange
 Apfel
 Birnen
 Tofu
+Kartoffel
+
